@@ -8,11 +8,11 @@
 
 /dts-v1/;
 #include <nordic/nrf52832_qfaa.dtsi>
-#include "lemon_iot_nrf52832-pinctrl.dtsi"
+#include "lemon_iot_ble_nrf52832-pinctrl.dtsi"
 
 / {
-	model = "Lemon IoT nRF52832 BLE";
-	compatible = "lemon,iot-nrf52832";
+	model = "Lemon IoT BLE nRF52832";
+	compatible = "lemon-iot,ble-nrf52832";
 
 	chosen {
 		zephyr,console = &uart0;

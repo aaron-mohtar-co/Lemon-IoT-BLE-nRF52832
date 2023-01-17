@@ -1,5 +1,5 @@
-identifier: nrf52832_lemon_iot
-name: Lemon-IoT-nRF52832
+identifier: lemon_iot_ble_nrf52832
+name: Lemon-IoT-BLE-nRF52832
 type: mcu
 arch: arm
 toolchain:
