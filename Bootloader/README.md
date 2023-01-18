@@ -16,7 +16,7 @@ The MCUBOOT_SIGNATURE_KEY_FILE is set automatically via nRF Connect and uses the
 
 Precompiled binaries of Newtmgr can be downloaded from https://dlcdn.apache.org/mynewt/. The Windows version is compressed using .tgz.
 
-Alternatively, you can download the Windows version 1.10.0 from [above](https://github.com/aaron-mohtar-co/Lemon-IoT-LTE-nrf9160/raw/main/Bootloader/apache-mynewt-newtmgr-bin-windows-1.10.0.zip) in a more user friendly .zip form.
+Alternatively, you can download the Windows version 1.10.0 from [here](https://github.com/aaron-mohtar-co/Lemon-IoT-LTE-nrf9160/raw/main/Bootloader/apache-mynewt-newtmgr-bin-windows-1.10.0.zip) in a more user friendly .zip form.
 
 Once downloaded, extract into a suitable directory. 
 
