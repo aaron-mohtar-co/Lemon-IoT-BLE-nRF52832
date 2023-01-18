@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: Apache-2.0
 
 config BOARD_LEMON_IOT_BLE_NRF52832
-	bool "nRF52832 Lemon IoT LTE"
+	bool "Lemon IoT BLE nRF52832"
 	depends on SOC_NRF52832_QFAA
