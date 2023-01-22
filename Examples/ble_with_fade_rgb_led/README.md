@@ -3,7 +3,7 @@
 This example provides a BLE service and characteristics for the Lemon IoT BLE service.
 
 
-# Testing the BLE service with the "Light Blue" app
+## Testing the BLE service with the "Light Blue" app
 
 *Power your programmed nRF52832 device up using a 3.3V supply, or by using one of the Lemon IoT support boards e.g. development board.
 *Open your "LightBlue" app on your smart device.
