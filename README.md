@@ -12,10 +12,10 @@ One target exists
 
 ## Serial Bootloader
 
-If you don’t have access to an ARM programmer (Segger J-Link, Nordic Development Kit etc), then the most cost-effective method of programming the Lemon IoT BLE module is via the pre-installed serial bootloader. Information on the serial bootloader can be found in the [bootloader/](https://github.com/aaron-mohtar-co/Lemon-IoT-BLE-nRF52832/tree/main/Bootloader) directory.
+If you don’t have access to an ARM programmer (Segger J-Link, Nordic Development Kit etc), then the most cost-effective method of programming the Lemon IoT BLE module is via the pre-installed serial bootloader. Information on the serial bootloader can be found in the [bootloader](https://github.com/aaron-mohtar-co/Lemon-IoT-BLE-nRF52832/tree/main/Bootloader) directory.
 
 ## Examples
 
-Both the [zephyr OS](https://github.com/zephyrproject-rtos/zephyr/tree/main/samples) and [Nordic nRF SDK](https://github.com/nrfconnect/sdk-nrf/tree/main/samples/nrf52832) contain a wide variety of examples to base your next product on. 
+Both the [zephyr OS](https://github.com/zephyrproject-rtos/zephyr/tree/main/samples) and [Nordic nRF SDK](https://github.com/nrfconnect/sdk-nrf/tree/main/samples) contain a wide variety of examples to base your next product on. 
 
 In addition to these examples, we have some specific examples for the Lemon IoT BLE module in the [Examples](https://github.com/aaron-mohtar-co/Lemon-IoT-BLE-nRF52832/tree/main/Examples) folder.
