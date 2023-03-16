@@ -8,7 +8,7 @@ The module is based on a [nRF52832 versatile bluetooth 5.3 SoC](https://www.nord
 Before you can target the Lemon IoT BLE module in Zephyr (nRF Connect SDK), board files will need to be downloaded from the [Zephyr board files](https://github.com/aaron-mohtar-co/Lemon-IoT-BLE-nRF52832/tree/main/Zephyr%20board%20files/arm) folder and placed in the \Nordic\<SDK version>\zephyr\boards\arm folder.
 
 One target exists
-* Lemon IoT NRF52832
+* Lemon IoT nRF52832
 
 ## Serial Bootloader
 
