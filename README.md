@@ -1,4 +1,4 @@
-# Lemon IoT - BLE-nRF52832 module
+# Lemon IoT - BLE - nRF52832 module
 This repository is the primary location for support files for the Lemon IoT - BLE nRF52832 module. 
 
 The module is based on a [nRF52832 versatile bluetooth 5.3 SoC](https://www.nordicsemi.com/products/nrf52832) from Nordic Semiconductor.
