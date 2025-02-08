@@ -1,0 +1,5 @@
+board:
+  name: lemon_iot_ble_nrf52832
+  vendor: lemon-iot
+  socs:
+    - name: nrf52832
